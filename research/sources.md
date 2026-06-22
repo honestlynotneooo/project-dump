@@ -66,6 +66,23 @@ Format: Name → Platform → Why → Links → Last verified date
 - SEJ + Moz contributions on product-led SEO framework
 
 
+### Key Sources — Eli Schwartz
+
+
+|          |                                                                                                                                                               |            |          |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- |
+| **Type** | **Title / URL**                                                                                                                                               | **Format** | **Date** |
+| **PC**   | [Lenny’s Podcast: Rethinking SEO in the Age of AI (1h 55m)](https://www.lennysnewsletter.com/p/rethinking-seo-in-the-age-of-ai-eli-schwartz)                  | Podcast    | Sep 2024 |
+| **PC**   | [Marketing Speak: The Future of Search Is Product-Led](https://www.marketingspeak.com/the-future-of-search-is-product-led-with-eli-schwartz/)                 | Podcast    | Mar 2026 |
+| **LI**   | [AI could end SEO? (219 comments)](https://www.linkedin.com/posts/schwartze_seo-google-ai-activity-7065393317970128896-KKMW)                                  | LinkedIn   | May 2023 |
+| **LI**   | [Programmatic SEO is NOT Product-Led SEO](https://www.linkedin.com/posts/schwartze_programmatic-seo-is-not-product-led-seo-activity-7160655947831373824-p8E9) | LinkedIn   | 2024     |
+| **LI**   | [How Product-Led AEO adapts to AI](https://www.linkedin.com/posts/schwartze_instead-of-obsessing-over-being-mentioned-activity-7393308892971200512-_qZ_)      | LinkedIn   | 2025     |
+
+
+**Last verified:** June 2026
+
+
+
 ---
 
 ## 3. Nick Jordan
