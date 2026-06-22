@@ -105,6 +105,23 @@ Format: Name → Platform → Why → Links → Last verified date
 - Case study: Skiff.com 0→65k, acquired by Notion
 - Case study: ClickUp 350+ pages program
 
+### Key Sources — Nick Jordan
+
+
+|          |                                                                                                                                                                                       |            |          |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- |
+| **Type** | **Title / URL**                                                                                                                                                                       | **Format** | **Date** |
+| **LI**   | [0→119k organics / $1.6M ARR case study (no backlinks)](https://www.linkedin.com/posts/nickfromseattle_the-best-directors-of-seo-have-a-background-activity-7097577808347975680-YYuc) | LinkedIn   | Aug 2023 |
+| **LI**   | [AI content de-ranking debate (84 comments)](https://www.linkedin.com/posts/nickfromseattle_google-is-actively-trying-to-de-rank-ai-content-activity-7021098946991206400-Jw_r)        | LinkedIn   | Jan 2023 |
+| **LI**   | [Full tech stack disclosure](https://fi.linkedin.com/posts/nickfromseattle_just-ran-a-website-migration-and-feeling-activity-7016750351038996480-asyj)                                | LinkedIn   | Jan 2023 |
+| **PC**   | [SEO Freelancer: 1M+ LinkedIn impressions — full transcript](https://seofreelancer.substack.com/p/nick-jordan)                                                                        | Podcast    | Jan 2023 |
+| **YT**   | [0 to 530,000 monthly organic visitors in 17 months](https://www.youtube.com/watch?v=AyZWuEG3sFQ)                                                                                     | YouTube    | Apr 2021 |
+| **YT**   | [Cracking the Content Code: quality at scale [Ep.125]](https://www.youtube.com/watch?v=YMlSIu6OqQc)                                                                                   | YouTube    | Apr 2023 |
+| **YT**   | [Crushing SEO without Backlinks (DTC Podcast ep.36)](https://www.youtube.com/watch?v=ZaT1BajuLKQ)                                                                                     | YouTube    | Oct 2020 |
+| **YT**   | [0→100k Organic Views Without Backlinks (Niche Pursuits)](https://www.youtube.com/watch?v=wW_t3btaxAk)                                                                                | YouTube    | Mar 2022 |
+
+
+**Last verified:** June 2026
 
 ---
 
