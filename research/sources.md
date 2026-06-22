@@ -222,10 +222,11 @@ Format: Name → Platform → Why → Links → Last verified date
 - "Why AI-generated content fails quality signals" — blog post
 - LinkedIn posts on content decay and refresh strategy
 
+**Last verified:** June 2026
 
 ---
 
-## 7. Anthony Pierrī
+## 7. Anthony Pierri
 
 **Role:** Co-founder, FletchPMM; B2B SaaS positioning + SEO content  
 **Why:** Rare combination of product marketing + SEO. His framework for mapping content to buyer stages (JTBD-informed) is the missing piece in most "just write more content" SEO strategies. Extremely active on LinkedIn with frameworks that get heavily reposted.
@@ -241,6 +242,8 @@ Format: Name → Platform → Why → Links → Last verified date
 - LinkedIn posts on homepage messaging + SEO alignment
 - "One-liner positioning" framework applied to content strategy
 - Posts on why SaaS SEO fails at conversion
+
+**Last verified:** June 2026
 
 ---
 
@@ -260,6 +263,7 @@ Format: Name → Platform → Why → Links → Last verified date
 - SEO ranking factors research 2025
 - AI content and E-E-A-T impact study
 
+**Last verified:** June 2026
 
 ---
 
@@ -280,6 +284,8 @@ Format: Name → Platform → Why → Links → Last verified date
 - Framework for measuring SEO content ROI in SaaS
 - Posts on content repurposing with AI tools
 
+**Last verified:** June 2026
+
 
 ---
 
@@ -299,3 +305,19 @@ Format: Name → Platform → Why → Links → Last verified date
 - Posts on AI content and link acquisition compatibility
 - "What makes SaaS content linkable in 2025" — blog
 - LinkedIn threads on content ROI measurement.
+
+### Key Sources — Ross Hudgens
+
+
+|          |                                                                                                 |            |          |
+| -------- | ----------------------------------------------------------------------------------------------- | ---------- | -------- |
+| **Type** | **Title / URL**                                                                                 | **Format** | **Date** |
+| **LI**   | [Linkable content framework posts — active publisher](https://www.linkedin.com/in/rosshudgens/) | LinkedIn   | 2024–25  |
+| **AR**   | [Siege Media blog — SaaS content + link strategy](https://www.siegemedia.com/blog)              | Article    | Ongoing  |
+
+
+
+
+
+
+**Last verified:** June 2026
