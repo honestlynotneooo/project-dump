@@ -143,6 +143,26 @@ Format: Name → Platform → Why → Links → Last verified date
 - LinkedIn posts on checkbox marketing, pain-point SEO failure modes
 - "How [company] gets customers" case study series
 
+### Key Sources — Brendan Hufford
+
+
+|          |                                                                                                                                                    |            |          |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- |
+| **Type** | **Title / URL**                                                                                                                                    | **Format** | **Date** |
+| **AR**   | [Content IP: The Framework That Generated $1M+ in Pipeline](https://growthsprints.co/content-ip/)                                                  | Article    | Feb 2025 |
+| **AR**   | [The 3S Strategy — How to Win SEO/AEO without keyword tools](https://growthsprints.co/3s-strategy/)                                                | Article    | Apr 2026 |
+| **AR**   | [7 Best SaaS AEO Consultants in 2026](https://growthsprints.co/best-saas-aeo-consultants/)                                                         | Article    | Jun 2026 |
+| **AR**   | [How Help Scout Gets Customers (30M+ ARR)](https://growthsprints.co/help-scout/)                                                                   | Article    | Sep 2024 |
+| **AR**   | [How ActiveCampaign Gets Customers ($250M ARR)](https://growthsprints.co/activecampaign/)                                                          | Article    | Jun 2024 |
+| **PC**   | [Marketing Powerups: Content IP Framework ($134k/month traffic)](https://www.marketingpowerups.com/podcast/brendan-huffords-content-ip-framework/) | Podcast    | May 2023 |
+| **YT**   | [Marketing Powerups: Content IP Framework — full video](https://youtu.be/giG9dkpO9Co)                                                              | YouTube    | May 2023 |
+| **PC**   | [SaaS SEO Show #29 — Growth Sprints methodology](https://www.youtube.com/watch?v=twjfVCEyI6c)                                                      | Podcast    | May 2022 |
+| **PC**   | [Closing Time (Insightly): Efficient growth in B2B](https://www.insightly.com/episodes/efficient-growth-in-b2b/)                                   | Podcast    | Mar 2024 |
+| **LI**   | [AEO tracking — 100+ prompts per client engagement](https://www.linkedin.com/in/brendanhufford)                                                    | LinkedIn   | 2025     |
+
+
+**Last verified:** June 2026
+
 
 ---
 
