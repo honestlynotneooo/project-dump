@@ -185,6 +185,23 @@ Format: Name → Platform → Why → Links → Last verified date
 - LinkedIn posts on visual semantics for AI search
 - Athens SEO 2026 presentation on evidence-to-click optimization
 
+### Key Sources — Aleyda Solis
+
+
+|          |                                                                                                              |            |          |
+| -------- | ------------------------------------------------------------------------------------------------------------ | ---------- | -------- |
+| **Type** | **Title / URL**                                                                                              | **Format** | **Date** |
+| **YT**   | [Crawling Mondays — full channel](https://www.youtube.com/c/crawlingmondaysbyaleyda)                         | YouTube    | Ongoing  |
+| **YT**   | [Top SEO tip for 2026 (12+ specialists)](https://www.youtube.com/watch?v=al-FuoXXQCs)                        | YouTube    | Dec 2025 |
+| **YT**   | [SEO Predictions 2026 (20+ specialists)](https://www.youtube.com/watch?v=yrJe9E08llc)                        | YouTube    | Dec 2025 |
+| **YT**   | [AI search crawlability — Humans of Martech ep.202](https://www.youtube.com/watch?v=pqrwpXpMM6s)             | YouTube    | Jan 2026 |
+| **NL**   | [SEOFOMO — 35,000+ subscribers weekly](https://www.seofomo.co)                                               | Newsletter | Ongoing  |
+| **AR**   | [Avoid common AI search SEO mistakes — Search Engine Land](https://searchengineland.com/author/aleyda-solis) | Article    | Nov 2025 |
+| **AR**   | [Crawling Mondays episode archive](https://www.aleydasolis.com/en/crawling-mondays-videos/)                  | Article    | Ongoing  |
+
+
+**Last verified:** June 2026
+
 
 ---
 
