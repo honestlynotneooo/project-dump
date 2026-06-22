@@ -25,6 +25,26 @@ Format: Name → Platform → Why → Links → Last verified date
 - LinkedIn posts on AI Overviews vs. traditional traffic
 
 
+### Key Sources — Kevin Indig
+
+
+|          |                                                                                                                                                   |            |          |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- |
+| **Type** | **Title / URL**                                                                                                                                   | **Format** | **Date** |
+| **AR**   | [AI Overviews turned search into reading sessions — Search Engine Land](https://searchengineland.com/ai-overviews-search-reading-sessions-479244) | Article    | Jun 2026 |
+| **AR**   | [Automate: 3 Automation Buckets — Majestic SEO in 2025](https://majestic.com/seo-in-2025/kevin-indig)                                             | Article    | Apr 2025 |
+| **NL**   | [State of AI Search Optimization 2026 — Growth Memo](https://www.growth-memo.com/p/state-of-ai-search-optimization-2026)                          | Newsletter | Jan 2026 |
+| **NL**   | [AI Mode User Behavior Study — Growth Memo](https://www.growth-memo.com/p/what-our-ai-mode-user-behavior-study)                                   | Newsletter | Oct 2025 |
+| **NL**   | [How consumers navigate high-stakes purchases in AI Mode](https://www.growth-memo.com/p/how-consumers-navigate-high-stakes)                       | Newsletter | Apr 2026 |
+| **AR**   | [62% of brand citations are invisible — Substack Note](https://substack.com/@kevinindig/note/c-246205360)                                         | Article    | Apr 2026 |
+| **LI**   | [Programmatic SEO post (57 comments)](https://www.linkedin.com/posts/kevinindig_seo-programmaticseo-ai-activity-7082354507581444097-2uT8)         | LinkedIn   | Jul 2023 |
+| **PC**   | [Future of SEO in an AI-First World — Churn.fm](https://www.churn.fm/episode/the-future-of-seo-in-an-ai-first-world-with-kevin-indig)             | Podcast    | 2025     |
+| **PC**   | [Optimize Podcast #065 — AI Overviews & Core Update](https://www.positional.com/podcast/kevin-indig-65)                                           | Podcast    | Aug 2024 |
+
+
+**Last verified:** June 2026
+
+
 ---
 
 ## 2. Eli Schwartz
