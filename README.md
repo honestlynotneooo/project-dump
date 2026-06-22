@@ -106,3 +106,14 @@ This research is designed to produce a usable playbook for a B2B SaaS company th
 | 8   | Kyle Byers      | Blog (Semrush) + LinkedIn                         | Data-driven SEO research, AI tool benchmarking      |
 | 9   | Liz Willits     | LinkedIn + Newsletter                             | SaaS content strategy, conversion-focused SEO       |
 | 10  | Ross Hudgens    | LinkedIn + Podcast (Siege Media)                  | Content-driven link acquisition + SaaS SEO          |
+
+
+---
+
+# Why These Experts?
+
+The goal of this project was not to assemble the most famous SEO personalities, but to identify practitioners who actively publish experiments, frameworks, case studies, and operational insights that can support a modern AI-powered SEO playbook.
+
+These ten experts were selected because they represent complementary areas of expertise rather than overlapping viewpoints.
+
+---
